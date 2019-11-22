@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "ID": "uuid",
+      "class": "assign|condition|device",
+      "metadata": {
+      }
+    }
+  ],
+  "links": [
+    {
+      "from": "uuid",
+      "to": "uuid"
+    }
+  ]
+}
